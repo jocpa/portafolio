@@ -5,8 +5,8 @@
 - [Heramientas](#herramientas)
 - [Cursos](#cursos)
 - [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Casos de prueba](#Casos-de-prueba)
+  * [Reporte de errores en Jira](#Reporte-de-errores-en-Jira)
 - [Libros que he leido](#libros-que-he-leido)
 
 ## Sobre mi
@@ -110,25 +110,21 @@ Un curso intensivo (16 h) sobre SQL Server
 
 ## Ejemplos de mi trabajo
 
-### Test cases and work in TestRail
+### Casos de prueba
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+- [Buggy Cars Rating](https://buggy.justtestit.org/) se utilizo para realizar pruebas
+  * Historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1269275621)
+  * Suite de pruebas basados en historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1208334371)
 
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+- [Pruebas automatizadas](https://github.com/jocpa/buggyCarsTest) con Cypress y JavaScript.
 
 
-### Bug reports and work in Jira
 
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+### Reporte de errores en Jira
+
+- Multiples errors encontrados en [Buggy Cars Rating](https://buggy.justtestit.org/) fueron reportados
+  * Bug #1. Ver [la captura de pantalla de Jira](https://drive.google.com/file/d/1tfUAxbgHmcQ8O-_3zFEzSk7qbSvbILR9/view?usp=sharing).
+  .
 
 ## Libros que he leido
 __"Certified Tester Foundation Level Syllabus"__ Version 2018 V3.1 
