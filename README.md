@@ -7,6 +7,8 @@
 - [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo)
   * [Casos de prueba](#Casos-de-prueba)
   * [Reporte de errores en Jira](#Reporte-de-errores-en-Jira)
+  * [Reporte de pruebas Automatizadas](#Reporte-de-pruebas-automatizadas)
+  * [Reporte de pruebas de API](#Reporte-de-pruebas-de-api)
 - [Libros que he leido](#libros-que-he-leido)
 
 ## Sobre mi
@@ -114,17 +116,25 @@ Un curso intensivo (16 h) sobre SQL Server
 
 - [Buggy Cars Rating](https://buggy.justtestit.org/) se utilizo para realizar pruebas
   * Historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1269275621)
-  * Suite de pruebas basados en historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1208334371)
+  * Suite de pruebas manuales basada en historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1208334371)
 
-- [Pruebas automatizadas](https://github.com/jocpa/buggyCarsTest) con Cypress y JavaScript.
+### Reporte pruebas Automatizadas
 
+-[Reporte de pruebas automatizadas](https://buggycarsreport.netlify.app/) - se realizaron pruebas automatizadas con Cypress y JavaScript.
 
+- Si desea ver mas informacion detallada, codigo y logica ver el repositorio completo de [buggyCarsTest](https://github.com/jocpa/buggyCarsTest).
+
+### Reporte de pruebas de API
+- [La API de Buggy Cars Rating](https://k51qryqov3.execute-api.ap-southeast-2.amazonaws.com/prod/models?page=1) se utilizo para realizar pruebas
+- Se utilizo la herramienta de Postman para probar el funcionamiento de la API para overall rating
+  * Acceso al repositorio completo de [Buggy Cars API](https://github.com/jocpa/buggyCarsPostman)
+- Para realizar reportes html se utilizo la herramienta NewMan
+  * Ver [la captura de pantalla de NewMan](https://drive.google.com/file/d/1sNNjPbOoMH4M53JXciB7oMTWqagymju4/view?usp=sharing).
 
 ### Reporte de errores en Jira
 
 - Multiples errors encontrados en [Buggy Cars Rating](https://buggy.justtestit.org/) fueron reportados
   * Bug #1. Ver [la captura de pantalla de Jira](https://drive.google.com/file/d/1tfUAxbgHmcQ8O-_3zFEzSk7qbSvbILR9/view?usp=sharing).
-  .
 
 ## Libros que he leido
 __"Certified Tester Foundation Level Syllabus"__ Version 2018 V3.1 
