@@ -121,7 +121,9 @@ Un curso intensivo (16 h) sobre SQL Server
 ### Reporte pruebas Automatizadas
 
 - [Reporte de pruebas automatizadas](https://buggycarsreport.netlify.app/) - se realizaron pruebas automatizadas con Cypress y JavaScript.
-
+- [Video #1](https://drive.google.com/file/d/1Oerkg1uz4gZtZOK3-CebY5F1oJ00eZ6z/view?usp=sharing) - Smoke Test
+- [Video #2](https://drive.google.com/file/d/1P7Szd4cOF84Sd5HU8esY8ZoFoUr34zlJ/view?usp=sharing) - Registrar usuario
+- [Video #3](https://drive.google.com/file/d/1r_FXCwrE3HuJLSoRSkb2GTUR8I4kdrRt/view?usp=sharing) - Actualizar usuario
 - Si desea ver mas informacion detallada, codigo y logica ver el repositorio completo de [buggyCarsTest](https://github.com/jocpa/buggyCarsTest).
 
 ### Reporte de pruebas de API
