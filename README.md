@@ -109,7 +109,7 @@ __Master en SQL Server__
 Un curso intensivo (16 h) sobre SQL Server
 [Link al certificado](https://www.udemy.com/certificate/UC-59693d15-91bf-4b84-a078-e63aca8143b6/)
 
-Puedes ver todas mis certifiaciones [desde mi google drive](https://drive.google.com/drive/folders/1JaA1gBj_TLulIy6ZYONLiHZs1ZSKARmW?usp=sharing)
+Puedes ver todas mis certificaciones [desde mi google drive](https://drive.google.com/drive/folders/1JaA1gBj_TLulIy6ZYONLiHZs1ZSKARmW?usp=sharing)
 
 ## Ejemplos de mi trabajo
 
