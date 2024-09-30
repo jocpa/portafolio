@@ -181,8 +181,6 @@ _curso online por [Mariano Puglisi](https://www.udemy.com/user/mariano-puglisi/)
 Un curso intensivo (16 h) sobre SQL Server
 [Link al certificado](https://www.udemy.com/certificate/UC-59693d15-91bf-4b84-a078-e63aca8143b6/)
 
-Puedes ver todas mis certificaciones [desde mi google drive](https://drive.google.com/drive/folders/1JaA1gBj_TLulIy6ZYONLiHZs1ZSKARmW?usp=sharing)
-
 ## Certificados
 
 - ISTQB Foundation Level 4.0
@@ -221,4 +219,5 @@ Puedes ver todas mis certificaciones [desde mi google drive](https://drive.googl
 
 ## Libros que he leido
 
-**"Certified Tester Foundation Level Syllabus"** Version 2018 V3.1
+**"Certified Tester Foundation Level Syllabus"** Version 3.1
+**"Certified Tester Foundation Level Syllabus"** Version 4.0
