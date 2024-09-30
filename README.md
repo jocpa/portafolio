@@ -220,4 +220,5 @@ Puedes ver todas mis certificaciones [desde mi google drive](https://drive.googl
 ## Libros que he leido
 
 **"Certified Tester Foundation Level Syllabus"** Version 3.1
+
 **"Certified Tester Foundation Level Syllabus"** Version 4.0
