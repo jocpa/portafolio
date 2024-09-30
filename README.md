@@ -31,6 +31,12 @@ Habilidades:
 - CI/CD: Jenkins
 - Bases de Datos: SQL Server, MySQL, PostgreSQL
 
+### Logros profesionales
+
+- **Optimizacion en procesos de control de calidad**: Liderato del area de automatizacion de backend, logrando automatizar mas de 100 consultas manuales a APIs redujendo el tiempo de pruebas en un 50%
+- **Reduccion de produccion de bugs en 35%**: Mi enfoque riguroso de pruebas y la meticulosa documentación de defectos resultaron en una reducción del 35% en los errores de producción.
+- **Aumento en la cobertura de pruebas.**: Enfocandome en automatizar todas las pruebas que se encontraban solo manual se logro aumentar la covertura de las pruebas ya existentes y enfocar al equipo de QA en nuevos proyectos.
+
 ## CV
 
 Puedes ver mi cv [desde mi Google Drive](https://drive.google.com/file/d/1l72VOD_AIDNA10YiOcFIqofaPqCp9PJb/view?usp=drive_link).
