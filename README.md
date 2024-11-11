@@ -39,7 +39,7 @@ Habilidades:
 
 ## CV
 
-Puedes ver mi cv [desde mi Google Drive](https://drive.google.com/file/d/1l72VOD_AIDNA10YiOcFIqofaPqCp9PJb/view?usp=drive_link).
+Puedes ver mi cv [desde mi Google Drive](https://drive.google.com/file/d/1p9vB_VdNQ081iJOVJ8o4zOTqGD7lcPu5/view?usp=sharing).
 
 ## Skills
 
