@@ -39,7 +39,7 @@ Additionally, I have experience in robotic process automation (RPA), where I hav
 
 ## CV
 
-You can view my CV [on Google Drive](https://drive.google.com/file/d/1p9vB_VdNQ081iJOVJ8o4zOTqGD7lcPu5/view?usp=sharing).
+You can view my CV [on Google Drive](https://drive.google.com/file/d/1w-GhrhIAv4D4GnSlYLtxQXAafp0pxkSY/view?usp=sharing).
 
 ## Skills
 
