@@ -1,230 +1,152 @@
 # Portfolio
 
-- [Sobre mi](#sobre-mi)
+- [About Me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
-- [Heramientas](#herramientas)
-- [Cursos](#cursos)
-- [Certificados](#certificados)
-- [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo)
-  - [Casos de prueba](#Casos-de-prueba)
-  - [Reporte de errores en Jira](#Reporte-de-errores-en-Jira)
-  - [Reporte de pruebas Automatizadas](#Reporte-de-pruebas-automatizadas)
-  - [Reporte de pruebas de API](#Reporte-de-pruebas-de-api)
-- [Libros que he leido](#libros-que-he-leido)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Certificates](#certificates)
+- [Examples of My Work](#examples-of-my-work)
+  - [Test Cases](#test-cases)
+  - [Bug Reports in Jira](#bug-reports-in-jira)
+  - [Automated Testing Reports](#automated-testing-reports)
+  - [API Testing Reports](#api-testing-reports)
+- [Books I've Read](#books-ive-read)
 
-## Sobre mi
+## About Me
 
-Soy un ingeniero de calidad de software con amplia experiencia en pruebas manuales y automatizadas, enfocado en asegurar la máxima calidad en cada proyecto. He trabajado tanto en pruebas de frontend como de backend, lo que me permite entregar productos robustos y fiables.
+I am a software quality engineer with extensive experience in both manual and automated testing, focused on ensuring the highest quality in every project. I have worked on both frontend and backend testing, which allows me to deliver robust and reliable products.
 
-Cuento con una especialización en pruebas de rendimiento y un sólido conocimiento en desarrollo web. Mi experiencia abarca desde la creación de casos de prueba hasta la implementación de frameworks de automatización, mejorando significativamente la eficiencia y precisión en los procesos de testing. He colaborado con equipos de diferentes areas para optimizar el rendimiento y la estabilidad de aplicaciones críticas.
+I specialize in performance testing and have a strong background in web development. My experience ranges from creating test cases to implementing automation frameworks, significantly improving efficiency and accuracy in testing processes. I have collaborated with teams across various areas to optimize the performance and stability of critical applications.
 
-En el ámbito de CI/CD, poseo experiencia en el uso de Jenkins, optimizando y gestionando pipelines de integración continua y despliegue automatizado. Este enfoque ha sido clave para identificar errores de manera oportuna, mejorando tanto la calidad del software como la eficiencia en las entregas.
+In the CI/CD domain, I have experience using Jenkins, optimizing and managing continuous integration and automated deployment pipelines. This approach has been key to identifying issues in a timely manner, improving both software quality and delivery efficiency.
 
-Además, tengo experiencia en automatización de procesos robóticos (RPA), donde he implementado soluciones innovadoras para mejorar flujos de trabajo y asegurar la entrega continua de productos de alta calidad.
+Additionally, I have experience in robotic process automation (RPA), where I have implemented innovative solutions to enhance workflows and ensure the continuous delivery of high-quality products.
 
-Habilidades:
+### Skills:
 
-- Automatización de Procesos Robóticos: UiPath, Power Automate, Power Apps, Automation Anywhere
-- Diseño Web: HTML5, CSS3, JavaScript, ReactJS, NodeJS
-- Automatización de Pruebas: Playwright, Cypress, Selenium, Postman, Robot Framework, K6, Karate, Postman
-- CI/CD: Jenkins
-- Bases de Datos: SQL Server, MySQL, PostgreSQL
+- **Robotic Process Automation**: UiPath, Power Automate, Power Apps, Automation Anywhere
+- **Web Design**: HTML5, CSS3, JavaScript, ReactJS, NodeJS
+- **Test Automation**: Playwright, Cypress, Selenium, Postman, Robot Framework, K6, Karate, Postman
+- **CI/CD**: Jenkins
+- **Databases**: SQL Server, MySQL, PostgreSQL
 
-### Logros profesionales
+### Professional Achievements:
 
-- **Optimizacion en procesos de control de calidad**: Liderato del area de automatizacion de backend, logrando automatizar mas de 100 consultas manuales a APIs redujendo el tiempo de pruebas en un 50%
-- **Reduccion de produccion de bugs en 35%**: Mi enfoque riguroso de pruebas y la meticulosa documentación de defectos resultaron en una reducción del 35% en los errores de producción.
-- **Aumento en la cobertura de pruebas.**: Enfocandome en automatizar todas las pruebas que se encontraban solo manual se logro aumentar la covertura de las pruebas ya existentes y enfocar al equipo de QA en nuevos proyectos.
+- **Optimization in Quality Control Processes**: Led the backend automation area, automating over 100 manual API queries, reducing testing time by 50%.
+- **35% Reduction in Production Bugs**: My rigorous testing approach and meticulous defect documentation resulted in a 35% reduction in production errors.
+- **Increased Test Coverage**: By focusing on automating all previously manual tests, test coverage was expanded, allowing the QA team to focus on new projects.
 
 ## CV
 
-Puedes ver mi cv [desde mi Google Drive](https://drive.google.com/file/d/1p9vB_VdNQ081iJOVJ8o4zOTqGD7lcPu5/view?usp=sharing).
+You can view my CV [on Google Drive](https://drive.google.com/file/d/1p9vB_VdNQ081iJOVJ8o4zOTqGD7lcPu5/view?usp=sharing).
 
 ## Skills
 
-Puedes encontrar ejemplos de mis habilidades en la seccion de [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo).
+You can find examples of my skills in the [Examples of My Work](#examples-of-my-work) section.
 
-**Testing Manual**
+### **Manual Testing**
 
-- Realizo pruebas funcionales detalladas para asegurar que la aplicación cumpla con los requisitos definidos.
-- Identifico errores, problemas de usabilidad y posibles áreas de mejora mediante pruebas exploratorias adaptadas a cada sistema.
+- Perform detailed functional testing to ensure the application meets the defined requirements.
+- Identify bugs, usability issues, and potential areas for improvement through exploratory testing tailored to each system.
 
-**Pruebas Automatizadas**
+### **Automated Testing**
 
-- Desarrollo y ejecuto pruebas automatizadas utilizando herramientas como Cypress, Playwright, Selenium y Robot Framework.
-- Implemento suites de pruebas que reducen el tiempo de ejecución y optimizan la cobertura de pruebas, permitiendo una mayor eficiencia en el ciclo de desarrollo.
+- Develop and execute automated tests using tools such as Cypress, Playwright, Selenium, and Robot Framework.
+- Implement test suites that reduce execution time and optimize test coverage, enhancing efficiency in the development cycle.
 
-**Conocimientos en CI/CD**
+### **CI/CD Knowledge**
 
-- Integro pipelines de CI/CD con herramientas como Jenkins, optimizando el proceso de integración continua y despliegue automatizado.
-- Aseguro una entrega continua y de alta calidad, automatizando pruebas y flujos de despliegue para reducir el riesgo de errores en producción.
+- Integrate CI/CD pipelines using tools like Jenkins, optimizing continuous integration and automated deployment processes.
+- Ensure high-quality continuous delivery by automating tests and deployment flows to reduce the risk of production errors.
 
-**Diseño y analisis y documentacion de casos de prueba**
+### **Test Case Design, Analysis, and Documentation**
 
-- Diseño casos de prueba detallados y efectivos que cubren todas las funcionalidades críticas, asegurando que cada requerimiento sea evaluado adecuadamente.
-- Realizo análisis de cobertura de pruebas, identificando áreas no probadas y optimizando el conjunto de pruebas para maximizar la calidad y confiabilidad del software.
-- Aseguro una documentación clara y completa de los casos de prueba durante todo el ciclo de vida de la prueba, desde la planificación hasta la ejecución y los resultados finales, facilitando el seguimiento y la trazabilidad.
+- Design detailed and effective test cases covering all critical functionalities to ensure each requirement is thoroughly evaluated.
+- Perform test coverage analysis, identifying untested areas and optimizing the test suite to maximize software quality and reliability.
+- Maintain clear and complete test documentation throughout the testing lifecycle, from planning to execution and final results, facilitating tracking and traceability.
 
-**Pruebas de APIs**
+### **API Testing**
 
-- Pruebas Manuales: Utilizo Postman para realizar pruebas manuales de APIs, validando sus endpoints, respuestas, tiempos de respuesta y asegurando que cumplan con los requisitos técnicos y de negocio.
-- Pruebas Automatizadas: Desarrollo pruebas automatizadas de APIs utilizando Postman, Karate Labs y Cypress API Testing para validar la integración y funcionalidad de los servicios web.
-- Implemento suites de pruebas de API que aseguran la estabilidad de las integraciones, reduciendo el tiempo de ejecución y mejorando la cobertura de pruebas.
+- **Manual Testing**: Use Postman to manually test APIs, validating endpoints, responses, response times, and ensuring compliance with technical and business requirements.
+- **Automated Testing**: Develop automated API tests using Postman, Karate Labs, and Cypress API Testing to validate web service integration and functionality.
+- Implement API test suites that ensure integration stability, reducing execution time and improving test coverage.
 
-**Bases de datos**
+### **Databases**
 
-- Gestión y Consultas: Manejo y optimizo bases de datos utilizando motores como SQL Server, SQLite y MySQL.
-- Integración con Pruebas: Realizo pruebas de integridad y rendimiento de bases de datos, asegurando que las consultas y operaciones se ejecuten eficientemente.
-- Automatización de Datos: Implemento scripts para la automatización de la preparación y limpieza de datos necesarios para las pruebas, garantizando entornos de prueba consistentes y fiables.
+- **Management and Queries**: Handle and optimize databases using SQL Server, SQLite, and MySQL.
+- **Testing Integration**: Perform integrity and performance tests on databases, ensuring efficient query execution.
+- **Data Automation**: Implement scripts for data preparation and cleanup automation, ensuring consistent and reliable test environments.
 
-**Desarrollo web**
+### **Web Development**
 
-- Tengo conocimiento en desarrolo front-end con tecnologias como HTML, CSS y JavaScript utilizando ReactJS
+- Knowledge in front-end development using technologies such as HTML, CSS, and JavaScript with ReactJS.
 
-**Automatizacion de procesos roboticos**
+### **Robotic Process Automation**
 
-- Utilizo herramientas como UiPath para automatizar procesos repetitivos y manuales, mejorando la eficiencia operativa y reduciendo los tiempos de ejecución.
-- Metodologías BPMN: Diseño y optimizo flujos de trabajo utilizando notación de modelado de procesos de negocio (BPMN), asegurando que los procesos automatizados sigan una estructura clara y eficiente.
-- Implemento soluciones de automatización que permiten la integración fluida entre sistemas, optimizando la productividad y la reducción de errores manuales.
+- Use tools like UiPath to automate repetitive and manual processes, improving operational efficiency and reducing execution times.
+- **BPMN Methodologies**: Design and optimize workflows using Business Process Model and Notation (BPMN), ensuring a clear and efficient automated process structure.
+- Implement automation solutions that enable seamless system integration, enhancing productivity and reducing manual errors.
 
-## Herramientas
+## Tools
 
-**TestRail**
+### **TestRail**
 
-- Gestión de Casos de Prueba: Organizo y mantengo casos de prueba en TestRail, facilitando la creación de planes de prueba y la ejecución sistemática de pruebas.
-- Reporte y Análisis: Genero informes detallados sobre el progreso y resultados de las pruebas, proporcionando visibilidad clara sobre la calidad del software.
+- **Test Case Management**: Organize and maintain test cases in TestRail, facilitating the creation of test plans and systematic test execution.
+- **Reporting and Analysis**: Generate detailed reports on test progress and results, providing clear visibility into software quality.
 
-**Jira**
+### **Jira**
 
-- Gestión de Proyectos: Utilizo Jira para la planificación, seguimiento y gestión de proyectos ágiles, configurando tableros Scrum y Kanban según las necesidades del equipo.
-- Seguimiento de Incidencias: Registro, priorizo y gestiono incidencias y tareas, asegurando una comunicación efectiva y la resolución oportuna de problemas.
+- **Project Management**: Use Jira for agile project planning, tracking, and management, configuring Scrum and Kanban boards according to team needs.
+- **Issue Tracking**: Log, prioritize, and manage issues and tasks, ensuring effective communication and timely problem resolution.
 
-**Cypress**
+### **Version Control with Git & GitHub**
 
-- capaz de crear pruebas automatizadas E2E
+- **Version Control**: Manage repositories using Git and GitHub, handling branches, merges, and conflict resolution to maintain a clean and collaborative code history.
+- **Team Collaboration**: Facilitate teamwork through pull requests, code reviews, and permission management.
 
-**Git & github**
+### **API Testing with Postman**
 
-- Control de Versiones: Manejo repositorios con Git y GitHub, gestionando ramas, fusiones y resolviendo conflictos para mantener un historial de código limpio y colaborativo.
-- Colaboración en Equipo: Facilito la colaboración entre desarrolladores mediante pull requests, revisiones de código y gestión de permisos.
+- **API Testing**: Develop and execute manual and automated API tests using Postman, creating collections, environments, and scripts to validate endpoints and data flows.
+- **API Documentation**: Generate clear and accessible API documentation, facilitating understanding and use by other developers and testers.
 
-**Mapas mentales**
+### **Performance and Load Testing with K6**
 
-- conozco como crear y utilizar mapas mentales para un mejor testing exploratorio
+- Perform load and performance testing with K6, simulating realistic traffic to assess how applications handle high-demand conditions.
 
-**Postman**
+## Courses
 
-- Pruebas de API: Desarrollo y ejecuto pruebas manuales y automatizadas de APIs utilizando Postman, creando colecciones, entornos y scripts para validar endpoints y flujos de datos.
-- Documentación de APIs: Genero documentación clara y accesible para APIs, facilitando la comprensión y uso por parte de otros desarrolladores y testers
+### **Complete UiPath RPA Developer Course**
 
-**Browser developer tools**
+_Online course by [Leon Petrou](https://www.udemy.com/user/c696b2e4-5bd8-46b9-9a41-bb6dc0774957/), Udemy_  
+An intensive (31h) course on building robots to automate tasks.  
+[Certificate Link](https://www.udemy.com/certificate/UC-f243d24e-54be-4599-abe7-9c180fc87e57/)
 
-- Depuración y Optimización: Utilizo herramientas de desarrollo de navegadores (como Chrome DevTools) para depurar aplicaciones web, analizar el rendimiento y optimizar el código.
-- Inspección de Elementos y Redes: Realizo inspecciones detalladas de elementos, monitoreo de tráfico de red y análisis de errores en tiempo real para identificar y resolver problemas rápidamente.
+### **Software Testing**
 
-**SonarQube**
+_Online course by [Esteban Balvin](https://www.udemy.com/user/esteban-balvin-3/), Udemy_  
+An introductory (10h) course covering the fundamentals of manual and automated software testing.  
+[Certificate Link](https://www.udemy.com/certificate/UC-c582fd6c-6719-4e49-b65a-4496efb91294/)
 
-- Análisis de Calidad de Código: Implemento SonarQube para realizar análisis estático de código, identificando vulnerabilidades, bugs y code smells que afectan la mantenibilidad y seguridad del software.
+## Certificates
 
-**GraphQL**
+- **ISTQB Foundation Level 4.0**
+- **ISTQB Test Automation Engineer (in progress)**
 
-- Desarrollo y Pruebas de APIs: Trabajo con GraphQL para diseñar, implementar y probar APIs eficientes, creando consultas y mutaciones optimizadas para interactuar con servicios backend.
-- Integración con Herramientas de Testing: Utilizo GraphQL en conjunto con herramientas de testing como Postman para validar la funcionalidad y rendimiento de las APIs.
+View all my certifications [on Google Drive](https://drive.google.com/drive/folders/1JaA1gBj_TLulIy6ZYONLiHZs1ZSKARmW?usp=sharing).
 
-**Selenium**
+## Examples of My Work
 
-- Automatización de Pruebas UI: Desarrollé y mantengo suites de pruebas automatizadas de interfaces de usuario utilizando Selenium, asegurando la compatibilidad y funcionalidad en múltiples navegadores.
-- Integración con Frameworks de Testing: Integro Selenium con frameworks de testing y pipelines de CI/CD para automatizar la ejecución de pruebas y mejorar la eficiencia del ciclo de desarrollo.
+### **Test Cases**
 
-**Cypress**
+- [Buggy Cars Rating](https://buggy.justtestit.org/) was used for testing.
+  - User Stories: [Google Sheets Document](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1269275621)
 
-- Pruebas End-to-End: Creo y ejecuto pruebas end-to-end con Cypress, asegurando la correcta funcionalidad de las aplicaciones desde la perspectiva del usuario final.
+### **Automated Testing Reports**
 
-**Cypress API Testing**
+- [Automated Testing Report](https://buggycarsreport.netlify.app/) - Tests were conducted using Cypress and JavaScript.
 
-- Pruebas de API Automatizadas: Utilizo Cypress para desarrollar y ejecutar pruebas automatizadas de APIs, validando la integridad y rendimiento de los servicios web.
-- Scripts de Validación: Escribo scripts personalizados para verificar respuestas de API, tiempos de respuesta y manejo de errores, asegurando la robustez de las integraciones.
+## Books I've Read
 
-**Karate Labs**
-
-- Pruebas de API con Karate: Desarrollo pruebas de API utilizando Karate Labs, aprovechando su sintaxis basada en Gherkin para crear scripts de prueba legibles y mantenibles.
-- Automatización de Flujos Complejos: Implemento pruebas automatizadas que abarcan flujos de trabajo complejos, asegurando la funcionalidad y fiabilidad de las APIs
-
-**Playwright**
-
-- Automatización de Navegadores: Utilizo Playwright para crear pruebas automatizadas que abarcan múltiples navegadores y dispositivos, garantizando una experiencia de usuario consistente.
-- Pruebas de Rendimiento y Seguridad: Realizo pruebas avanzadas de rendimiento y seguridad utilizando las capacidades de Playwright, identificando y resolviendo vulnerabilidades potenciales.
-
-**K6**
-
-- Pruebas de Carga y Rendimiento: Realizo pruebas de carga y rendimiento con K6, simulando tráfico realista para evaluar cómo las aplicaciones manejan condiciones de alta demanda.
-
-## Cursos
-
-**Complete UiPath RPA DEveloper Course**  
-_curso online por [Leon Petrou](https://www.udemy.com/user/c696b2e4-5bd8-46b9-9a41-bb6dc0774957/), Udemy_  
-Un curso intesivo de (31 h) sobre la creacion de robots para automatizar tareas.  
-[Link al certificado](https://www.udemy.com/certificate/UC-f243d24e-54be-4599-abe7-9c180fc87e57/)
-
-**Software testing**  
-_curso online por [Esteban Balvin](https://www.udemy.com/user/esteban-balvin-3/), Udemy_  
-Un curso introductorio (10 h) sobre las bases de las pruebas manuales y automatizadas de software.  
-[Link al certificado](https://www.udemy.com/certificate/UC-c582fd6c-6719-4e49-b65a-4496efb91294/)
-
-**JavaScript Moderno**  
-_curso online por [Juan Pablo De la torre Valdez](https://www.udemy.com/user/sal-510/), Udemy_  
-Un curso (50 h) sobre JavaScript, desde las bases hasta experto, con 20 aplicaiones web construibles.
-[Link al certificado](https://www.udemy.com/certificate/UC-8806c795-9fd6-4da2-a9eb-e46af8aa1da4/)
-
-**Selenium Webdriver & Java**  
-_curso online por [Sal Learning](https://www.udemy.com/user/sal-510/), Udemy_  
-Un curso intensivo (21 h) sobre pruebas automatizadas con selenium Webdriver y java
-[Link al certificado](https://www.udemy.com/certificate/UC-d8025c5f-4f4b-46bf-83f2-3159300dc71a/)
-
-**Master en SQL Server**  
-_curso online por [Mariano Puglisi](https://www.udemy.com/user/mariano-puglisi/), Udemy_  
-Un curso intensivo (16 h) sobre SQL Server
-[Link al certificado](https://www.udemy.com/certificate/UC-59693d15-91bf-4b84-a078-e63aca8143b6/)
-
-## Certificados
-
-- ISTQB Foundation Level 4.0
-- ISTQB Test automation Egineer (in progress)
-
-Puedes ver todas mis certificaciones [desde mi google drive](https://drive.google.com/drive/folders/1JaA1gBj_TLulIy6ZYONLiHZs1ZSKARmW?usp=sharing)
-
-## Ejemplos de mi trabajo
-
-### Casos de prueba
-
-- [Buggy Cars Rating](https://buggy.justtestit.org/) se utilizo para realizar pruebas
-  - Historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1269275621)
-  - Suite de pruebas manuales basada en historias de usuario[Documento de google sheets aqui](https://docs.google.com/spreadsheets/d/1t6ErgUnVaefHxjo7dPNFCCCyKG5bFopnbR4GHEw0FTI/edit#gid=1208334371)
-
-### Reporte pruebas Automatizadas
-
-- [Reporte de pruebas automatizadas](https://buggycarsreport.netlify.app/) - se realizaron pruebas automatizadas con Cypress y JavaScript.
-- [Video #1](https://drive.google.com/file/d/1Oerkg1uz4gZtZOK3-CebY5F1oJ00eZ6z/view?usp=sharing) - Smoke Test
-- [Video #2](https://drive.google.com/file/d/1P7Szd4cOF84Sd5HU8esY8ZoFoUr34zlJ/view?usp=sharing) - Registrar usuario
-- [Video #3](https://drive.google.com/file/d/1r_FXCwrE3HuJLSoRSkb2GTUR8I4kdrRt/view?usp=sharing) - Actualizar usuario
-- Si desea ver mas informacion detallada, codigo y logica ver el repositorio completo de [buggyCarsTest](https://github.com/jocpa/buggyCarsTest).
-
-### Reporte de pruebas de API
-
-- [La API de Buggy Cars Rating](https://k51qryqov3.execute-api.ap-southeast-2.amazonaws.com/prod/models?page=1) se utilizo para realizar pruebas
-- Se utilizo la herramienta de Postman para probar el funcionamiento de la API para overall rating
-  - Acceso al repositorio completo de [Buggy Cars API](https://github.com/jocpa/buggyCarsPostman)
-- Para realizar reportes html se utilizo la herramienta NewMan
-  - Ver [la captura de pantalla de NewMan](https://drive.google.com/file/d/1sNNjPbOoMH4M53JXciB7oMTWqagymju4/view?usp=sharing).
-
-### Reporte de errores en Jira
-
-- Multiples errors encontrados en [Buggy Cars Rating](https://buggy.justtestit.org/) fueron reportados
-  - Bug #1. Ver [la captura de pantalla de Jira](https://drive.google.com/file/d/1tfUAxbgHmcQ8O-_3zFEzSk7qbSvbILR9/view?usp=sharing).
-
-## Libros que he leido
-
-**"Certified Tester Foundation Level Syllabus"** Version 3.1
-
-**"Certified Tester Foundation Level Syllabus"** Version 4.0
+- **"Certified Tester Foundation Level Syllabus"** Version 3.1
+- **"Certified Tester Foundation Level Syllabus"** Version 4.0
